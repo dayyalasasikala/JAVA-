@@ -1,17 +1,11 @@
-package saasi_pro;
+package org.com.praveendemo;
 
 public class praveen {
-	
-	int a=30;
-	int b=45;
-	c=a+b;
-	
-
 	public static void main(String[] args) {
-		System.out.println("add");
-		
-		
-
+	System.out.println("anu");
+	System.out.println(566);
+   System.out.println("little baby");
+	}
 	}
 
-}
+
